@@ -11,7 +11,15 @@
     "power-assert",
     "assert"
   ],
-  "author": "Yoshi",
+  "author": {
+    "name" : "Thang Nguyen",
+    "email" : "thangnv77@gmail.com",
+    "url" : "http://yoshisaur.com"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/vietthang/power-assert-promise"
+  },
   "license": "MIT",
   "dependencies": {
     "power-assert": "^1.4.1"
