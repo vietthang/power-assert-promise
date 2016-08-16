@@ -1,0 +1,16 @@
+{
+  "extends": "eslint-config-airbnb/legacy",
+  "plugins": [
+    "mocha"
+  ],
+  "rules": {
+    "func-names": [0],
+  },
+  "globals": {
+    "describe": true,
+    "before": true,
+    "after": true,
+    "it": true,
+    "Promise": true,
+  }
+}

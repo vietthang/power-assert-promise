@@ -1,0 +1,30 @@
+{
+  "name": "power-assert-promise",
+  "version": "0.0.1",
+  "description": "Add promise function to power-assert",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "keywords": [
+    "promise",
+    "power-assert",
+    "assert"
+  ],
+  "author": "Yoshi",
+  "license": "MIT",
+  "dependencies": {
+    "power-assert": "^1.4.1"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "chai-as-promised": "^5.3.0",
+    "eslint": "^3.3.1",
+    "eslint-config-airbnb": "^10.0.1",
+    "eslint-plugin-import": "^1.13.0",
+    "eslint-plugin-jsx-a11y": "^2.1.0",
+    "eslint-plugin-mocha": "^4.3.0",
+    "eslint-plugin-react": "^6.1.1",
+    "mocha": "^3.0.2"
+  }
+}
